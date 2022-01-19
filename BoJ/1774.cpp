@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1774
+// 우주신과의 교감
 #include<iostream>
 #include<vector>
 #include<tuple>
