@@ -1,3 +1,6 @@
+// https://www.acmicpc.net/problem/1987
+// ¾ËÆÄºª
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
